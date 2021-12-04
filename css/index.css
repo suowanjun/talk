@@ -12,3 +12,10 @@
     height: 100px;
     background-color: orange;
 }
+.developer{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100px;
+}
